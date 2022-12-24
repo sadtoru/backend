@@ -1,9 +1,9 @@
-package com.portfolio.mgb.Controller;
+package com.portfolio.dai.Controller;
 
-import com.portfolio.mgb.Dto.dtoHys;
-import com.portfolio.mgb.Entity.hys;
-import com.portfolio.mgb.Security.Controller.Mensaje;
-import com.portfolio.mgb.Service.Shys;
+import com.portfolio.dai.Dto.dtoHys;
+import com.portfolio.dai.Entity.hys;
+import com.portfolio.dai.Security.Controller.Mensaje;
+import com.portfolio.dai.Service.Shys;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

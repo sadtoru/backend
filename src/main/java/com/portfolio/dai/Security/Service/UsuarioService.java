@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mgb.Security.Service;
+package com.portfolio.dai.Security.Service;
 
-import com.portfolio.mgb.Security.Entity.Usuario;
-import com.portfolio.mgb.Security.Repository.iUsuarioRepository;
+import com.portfolio.dai.Security.Entity.Usuario;
+import com.portfolio.dai.Security.Repository.iUsuarioRepository;
 import java.util.Optional;
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

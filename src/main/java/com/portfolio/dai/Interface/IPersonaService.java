@@ -1,6 +1,6 @@
-package com.portfolio.mgb.Interface;
+package com.portfolio.dai.Interface;
 
-import com.portfolio.mgb.Entity.Persona;
+import com.portfolio.dai.Entity.Persona;
 import java.util.List;
 
 public interface IPersonaService {

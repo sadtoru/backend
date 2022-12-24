@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mgb.Security.Controller;
+package com.portfolio.dai.Security.Controller;
 
-import com.portfolio.mgb.Security.Dto.JwtDto;
-import com.portfolio.mgb.Security.Dto.LoginUsuario;
-import com.portfolio.mgb.Security.Dto.NuevoUsuario;
-import com.portfolio.mgb.Security.Entity.Rol;
-import com.portfolio.mgb.Security.Entity.Usuario;
-import com.portfolio.mgb.Security.Enums.RolNombre;
-import com.portfolio.mgb.Security.Service.RolService;
-import com.portfolio.mgb.Security.Service.UsuarioService;
-import com.portfolio.mgb.Security.jwt.JwtProvider;
+import com.portfolio.dai.Security.Dto.JwtDto;
+import com.portfolio.dai.Security.Dto.LoginUsuario;
+import com.portfolio.dai.Security.Dto.NuevoUsuario;
+import com.portfolio.dai.Security.Entity.Rol;
+import com.portfolio.dai.Security.Entity.Usuario;
+import com.portfolio.dai.Security.Enums.RolNombre;
+import com.portfolio.dai.Security.Service.RolService;
+import com.portfolio.dai.Security.Service.UsuarioService;
+import com.portfolio.dai.Security.jwt.JwtProvider;
 import java.util.HashSet;
 import java.util.Set;
 import javax.validation.Valid;

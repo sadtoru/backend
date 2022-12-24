@@ -1,6 +1,6 @@
-package com.portfolio.mgb.Repository;
+package com.portfolio.dai.Repository;
 
-import com.portfolio.mgb.Entity.Persona;
+import com.portfolio.dai.Entity.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

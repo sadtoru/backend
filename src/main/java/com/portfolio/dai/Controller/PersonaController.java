@@ -1,8 +1,8 @@
 
-package com.portfolio.mgb.Controller;
+package com.portfolio.dai.Controller;
 
-import com.portfolio.mgb.Entity.Persona;
-import com.portfolio.mgb.Interface.IPersonaService;
+import com.portfolio.dai.Entity.Persona;
+import com.portfolio.dai.Interface.IPersonaService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mgb.Service;
+package com.portfolio.dai.Service;
 
-import com.portfolio.mgb.Entity.Experiencia;
-import com.portfolio.mgb.Repository.RExperiencia;
+import com.portfolio.dai.Entity.Experiencia;
+import com.portfolio.dai.Repository.RExperiencia;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

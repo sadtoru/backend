@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mgb.Repository;
+package com.portfolio.dai.Repository;
 
-import com.portfolio.mgb.Entity.Educacion;
+import com.portfolio.dai.Entity.Educacion;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

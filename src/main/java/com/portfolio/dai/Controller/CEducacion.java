@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mgb.Controller;
+package com.portfolio.dai.Controller;
 
-import com.portfolio.mgb.Dto.dtoEducacion;
-import com.portfolio.mgb.Entity.Educacion;
-import com.portfolio.mgb.Security.Controller.Mensaje;
-import com.portfolio.mgb.Service.Seducacion;
+import com.portfolio.dai.Dto.dtoEducacion;
+import com.portfolio.dai.Entity.Educacion;
+import com.portfolio.dai.Security.Controller.Mensaje;
+import com.portfolio.dai.Service.Seducacion;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

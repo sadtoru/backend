@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mgb.Security.Entity;
+package com.portfolio.dai.Security.Entity;
 
-import com.portfolio.mgb.Security.Enums.RolNombre;
+import com.portfolio.dai.Security.Enums.RolNombre;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
